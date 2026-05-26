@@ -2,6 +2,16 @@
 
 A mobile-first digital business card that lives behind a QR code. When someone scans it, they land on a clean, professional page with all your contact info — and one tap saves everything directly to their phone's contacts.
 
+This card also doubles as a **live product demo for QRFlow** — it's the exact experience we sell to clients, built and used by the team selling it.
+
+---
+
+## Live Demo
+
+This repo is the actual card I use as an Account Executive at QRFlow. It's not a mock or a prototype — it's live, it's linked to my QR code, and it's what I hand to prospects when I'm in the field. Every time someone scans it, they're experiencing QRFlow's product firsthand before I've said a word about it.
+
+That's intentional. The best demo is the one that sells itself.
+
 ---
 
 ## My Thought Process
